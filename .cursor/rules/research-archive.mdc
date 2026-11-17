@@ -1,0 +1,23 @@
+---
+description: Public vs private trees for Independent Research & Explorations
+alwaysApply: true
+---
+
+# gowda-rg.github.io
+
+## Public (commit + GitHub Pages)
+
+This repository root: research-archive voice only (`README.md`, `index.md`, `orientation/`, `inquiry/`, `blocks/`, `corpus/`, `insights/`, `architecture/`, `registry.yaml`).
+
+Epistemic stance: `orientation/epistemic-stance.md`. Module index: `registry.yaml`.
+
+## Private reference (workspace only — never commit)
+
+Sibling folder: `../human-private/gowda-rg.github.io/`
+
+- `map.md` — personal navigation  
+- `vault/` — raw sources  
+- `roles/` — portfolio-adjacent material (not site voice)  
+- `meta/` — build goals, phases, technical notes, full registry  
+
+Agents building this project should read private material when needed for representation, migration, or infra decisions. Do not copy private paths into public prose or README.

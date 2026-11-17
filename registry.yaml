@@ -1,0 +1,30 @@
+version: 1
+site: https://gowda-rg.github.io
+entry: index.md
+repository_readme: README.md
+
+public_lanes:
+  orientation:
+    - orientation/purpose-and-boundaries.md
+    - orientation/central-inquiry.md
+    - orientation/platform-ecosystem.md
+    - orientation/epistemic-stance.md
+  inquiry:
+    - inquiry/investigation-levels.md
+    - inquiry/conceptual-layers.md
+  blocks:
+    - blocks/block-types.md
+    - blocks/semantic-drift-modules.md
+    - blocks/concept-exploration-protocol.md
+  corpus:
+    - corpus/accumulated-work.md
+    - corpus/methods-and-approaches.md
+    - corpus/intellectual-development.md
+  insights:
+    - insights/load-bearing-functions.md
+
+planning_repo_only:
+  - architecture/
+
+epistemic_default: orientation/epistemic-stance.md
+central_inquiry: orientation/central-inquiry.md

@@ -1,0 +1,55 @@
+title: Independent Research & Explorations
+tagline: Human–AI Interaction · Cognition · Phenomenology · Philosophy · Systems Thinking
+description: >-
+  Evolving archive of independent inquiry into meaning, context,
+  and observable behavior in sustained human–AI interaction.
+url: "https://gowda-rg.github.io"
+baseurl: ""
+lang: en
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - orientation/purpose-and-boundaries.md
+  - orientation/central-inquiry.md
+  - inquiry/conceptual-layers.md
+  - blocks/block-types.md
+
+# Planning docs stay in the repo; not built as site pages unless front matter is added.
+exclude:
+  - Gemfile
+  - architecture
+  - registry.yaml
+  - README.md
+
+defaults:
+  - scope:
+      path: "orientation"
+    values:
+      layout: page
+      permalink: /orientation/:basename/
+  - scope:
+      path: "inquiry"
+    values:
+      layout: page
+      permalink: /inquiry/:basename/
+  - scope:
+      path: "blocks"
+    values:
+      layout: page
+      permalink: /blocks/:basename/
+  - scope:
+      path: "corpus"
+    values:
+      layout: page
+      permalink: /corpus/:basename/
+  - scope:
+      path: "insights"
+    values:
+      layout: page
+      permalink: /insights/:basename/

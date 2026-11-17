@@ -8,3 +8,6 @@ vendor/
 
 # Local previews
 .ruby-version
+
+# Drafts and builder-only notes (never publish)
+.private/

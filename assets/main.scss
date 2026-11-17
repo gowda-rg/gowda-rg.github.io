@@ -1,0 +1,34 @@
+---
+# Main Sass file — Minima + light reader adjustments
+---
+
+@import "minima";
+
+// Readable measure for long essays
+.wrapper {
+  max-width: 52rem;
+}
+
+.page-content,
+.post-content {
+  max-width: 46rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-content h2 {
+  margin-top: 2.25rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e8e8e8;
+}
+
+.post-content table {
+  display: block;
+  overflow-x: auto;
+  font-size: 0.92rem;
+}
+
+.post-meta {
+  opacity: 0.85;
+  font-size: 0.9rem;
+}

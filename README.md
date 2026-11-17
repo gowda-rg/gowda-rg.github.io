@@ -27,7 +27,7 @@ An evolving archive of independent inquiry into how **meaning, understanding and
 
 > How does meaning, understanding and reasoning evolve through sustained interaction between humans and artificial intelligence systems?
 
-[Read orientation →](orientation/central-inquiry.md)
+**[About & trajectory →](about.md)** · **[Central inquiry →](orientation/central-inquiry.md)**
 
 ---
 
@@ -35,6 +35,7 @@ An evolving archive of independent inquiry into how **meaning, understanding and
 
 | Section | Contents |
 |---------|----------|
+| [about.md](about.md) | Trajectory into sustained HAI exploration (`/about/`) |
 | [orientation/](orientation/) | Purpose, central inquiry, platforms, epistemic stance |
 | [inquiry/](inquiry/) | Conceptual layers (A–G) and investigation levels |
 | [blocks/](blocks/) | Reusable intellectual units; [semantic drift example](blocks/semantic-drift-modules.md) |

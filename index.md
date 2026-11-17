@@ -5,46 +5,39 @@ title: Independent Research & Explorations
 
 Human–AI Interaction · Cognition · Phenomenology · Philosophy · Systems Thinking
 
-This space documents **independent inquiry** into human–AI interaction, cognition, language, meaning-making, and **observable** behavior of language models across **extended** dialogue — not isolated prompts.
+**Darshan RG**
 
-It is an intellectual workspace, not an institutional research program or a software portfolio.
+I work as a software developer. Over the last several years that practice widened into generative AI and **Human–AI Interaction** — how technical systems are designed, used, and *experienced* over sustained dialogue.
 
-## Central inquiry
+This site holds two layers:
 
-**How does meaning, understanding and reasoning evolve through sustained interaction between humans and artificial intelligence systems?**
+1. **[About](/about/)** — how I arrived here (engineering path, transition, independent exploration).  
+2. **The research archive** — concepts, inquiry, and notes on meaning and observable behavior in long human–AI interaction.
 
-## Research orientation
+**New:** [The Artifact Is the Interface](/writings/artifact-is-the-interface/) — first long-form essay on output-first and artifact-first revision.
 
-1. **Human–AI interaction** — mental models, continuity, instructions, semantic alignment, collaborative inquiry  
-2. **Phenomenology & first-person inquiry** — sense-making and interpretation through sustained use  
-3. **Cognition & philosophy of mind** — without inferring consciousness from chat behavior alone  
-4. **Language, meaning & symbolic structures** — coherence, drift, mapping, multi-perspectival reasoning  
-5. **Observable AI behavior** — traces, consistency, hallucinations, context effects  
-6. **Human-centered AI** — evaluation and methodology informed by longitudinal use  
+You can read the story first, or go straight into the archive if you are here for the work itself.
 
-## Methods
+---
 
-Longitudinal observation · first-person participatory inquiry · interaction trace analysis · structured prompt experimentation · reflective qualitative analysis · framework development · interdisciplinary reading.
+## Why this exists
 
-Methodology is evolving; not every note is a validated empirical study.
+> How does meaning, understanding and reasoning evolve through sustained interaction between humans and artificial intelligence systems?
 
-## Navigate
+The archive treats that as a live question — not a finished theory. It privileges **interaction traces and observable behavior**, not claims about model internals.
+
+---
+
+## Enter the research archive
 
 - [Purpose & boundaries](/orientation/purpose-and-boundaries/)
 - [Central inquiry](/orientation/central-inquiry/)
 - [Conceptual layers](/inquiry/conceptual-layers/)
-- [Block types](/blocks/block-types/)
-- [Semantic drift (exemplar)](/blocks/semantic-drift-modules/)
+- [Semantic drift (exemplar concept)](/blocks/semantic-drift-modules/)
+- [Writings](/writings/) — essays and technical investigations
 
-## Other platforms
-
-| Platform | Role |
-|----------|------|
-| GitHub repositories | Code and experiments |
-| **This site** | Structured research archive |
-| Substack | Long-form public writing |
-| Personal website | Professional engineering identity |
+[Full about & timeline →](/about/)
 
 ---
 
-_An evolving archive of inquiry into human–AI interaction, cognition, meaning and the structures through which humans interpret intelligent systems._
+_Ongoing independent inquiry — an intellectual workspace, not an institutional lab or a developer portfolio._

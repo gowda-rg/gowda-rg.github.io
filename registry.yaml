@@ -1,9 +1,15 @@
 version: 1
 site: https://gowda-rg.github.io
 entry: index.md
+about: about.md
 repository_readme: README.md
 
 public_lanes:
+  about:
+    - about.md
+  writings:
+    - writings/index.md
+    - _posts/2026-11-17-artifact-is-the-interface.md
   orientation:
     - orientation/purpose-and-boundaries.md
     - orientation/central-inquiry.md

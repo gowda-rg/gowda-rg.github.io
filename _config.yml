@@ -9,16 +9,21 @@ lang: en
 markdown: kramdown
 theme: minima
 
+show_excerpts: true
+
+sass:
+  style: compressed
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 header_pages:
   - index.md
+  - about.md
+  - writings/index.md
   - orientation/purpose-and-boundaries.md
   - orientation/central-inquiry.md
-  - inquiry/conceptual-layers.md
-  - blocks/block-types.md
 
 # Planning docs stay in the repo; not built as site pages unless front matter is added.
 exclude:

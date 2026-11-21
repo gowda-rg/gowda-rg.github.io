@@ -3,7 +3,7 @@ layout: page
 title: "Intellectual development"
 ---
 
-The archive documents **how thinking changes**, not only conclusions.
+The archive documents **how thinking changes** and the conclusions that follow.
 
 Ideas may:
 
@@ -25,9 +25,9 @@ Ideas may:
 
 ## Long-term vision
 
-External representation of intellectual development over time — **cartography of inquiry**, not a static expertise billboard.
+External representation of intellectual development over time — a **cartography of inquiry**.
 
-Compared with essay-first publication: unfinished state, contradictory observations, abandoned or renamed frameworks remain valid records.
+Alongside essay channels, the archive keeps drafts in motion: unfinished lines, contradictory observations, and renamed frameworks stay in the record.
 
 ## Related
 

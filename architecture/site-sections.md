@@ -1,6 +1,6 @@
 # Site sections (information architecture)
 
-Intellectual navigation first — not a single chronological blog.
+Intellectual navigation first — organized by concepts, methods, and publication streams.
 
 ## Top-level sections (hypothesis for discussion)
 

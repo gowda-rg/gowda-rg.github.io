@@ -33,12 +33,10 @@ The [research archive](/orientation/purpose-and-boundaries/) collects that threa
 
 ---
 
-## Enter the archive
+## Archive entry points
 
-If you already know why you are here:
-
-- [Purpose & boundaries](/orientation/purpose-and-boundaries/) — what this space is for  
+- [Purpose & scope](/orientation/purpose-and-boundaries/) — what this space is for  
 - [Central inquiry](/orientation/central-inquiry/) — the organizing question  
 - [Conceptual layers](/inquiry/conceptual-layers/) — how the inquiry is structured  
 
-Engineering project write-ups and other publication formats are described in [platform ecosystem](/orientation/platform-ecosystem/).
+Related publication spaces: [platform ecosystem](/orientation/platform-ecosystem/).

@@ -31,7 +31,7 @@ Central material for the archive — independent exploration during the period b
 
 ## Period framing
 
-After the last full-time development role: extended period of **independent learning and exploration** — models, frameworks, reasoning consistency, semantic alignment — now returning toward structured engineering work while this intellectual line continues in parallel.
+Sep 2024 – Oct 2026: **independent learning and exploration** on models, frameworks, reasoning consistency, and semantic alignment — carried in parallel with continued engineering work.
 
 ## Related
 

@@ -30,7 +30,7 @@ Analyzing (among other objects):
 - Context degradation in multi-turn exchange  
 - Anomaly patterns relevant to instruction adherence  
 
-Bridges qualitative observation with structured pattern recognition — **observable behavior and context**, not model introspection.
+Bridges qualitative observation with structured pattern recognition — centered on **observable behavior and context**.
 
 ## Research interests (tags)
 

@@ -9,9 +9,7 @@ Several spaces serve different formats. They cross-link where useful; full prose
 
 ## A. Personal website — engineering profile
 
-Engineering history, selected projects, skills, and contact.
-
-*(Separate site — URL added when published.)*
+[sentientsyntax.com](https://www.sentientsyntax.com) — engineering history, selected projects, skills, and contact.
 
 ## B. GitHub Pages — Independent Research & Explorations
 

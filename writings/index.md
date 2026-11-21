@@ -4,7 +4,7 @@ title: Writings
 permalink: /writings/
 ---
 
-Long-form notes on human–AI interaction, generative interfaces, and revision. Epistemic stance: [purpose & boundaries](/orientation/purpose-and-boundaries/).
+Long-form notes on human–AI interaction, generative interfaces, and revision. Context: [purpose & scope](/orientation/purpose-and-boundaries/) · [epistemic stance](/orientation/epistemic-stance/).
 
 ## Essays
 

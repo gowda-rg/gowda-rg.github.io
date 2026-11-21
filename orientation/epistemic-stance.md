@@ -3,7 +3,7 @@ layout: page
 title: "Epistemic stance"
 ---
 
-Independent exploratory work — not a formal institutional research program.
+Independent inquiry published as an evolving open archive.
 
 ## Distinguish clearly
 
@@ -19,16 +19,16 @@ Independent exploratory work — not a formal institutional research program.
 
 ## On AI models
 
-Do **not** claim access to internal reasoning. Focus on:
+Claims in this archive stay at the level of:
 
 - Observable responses
 - Interaction traces
 - Contextual behavior
-- Limits of inference from behavior alone
+- Inference limits when reasoning from behavior alone
 
 ## On expertise
 
-Exploratory philosophical and interdisciplinary material must not be presented as established scientific authority unless supported.
+Exploratory philosophical and interdisciplinary material is **labeled as such**; established scientific claims require cited support.
 
 Preserve meaningful terminology; surface **ambiguity** instead of silent redefinition.
 

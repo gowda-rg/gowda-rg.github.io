@@ -3,7 +3,7 @@ layout: page
 title: "Block types"
 ---
 
-Intellectual content is stored as **reusable blocks**, not repeated biography variants. Each block can be understood, revised, connected, published or challenged on its own.
+Intellectual content is stored as **reusable blocks**. Each block can be understood, revised, connected, published or challenged on its own.
 
 | Block type | Function | Example |
 |------------|----------|---------|

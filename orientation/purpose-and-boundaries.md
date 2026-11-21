@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Purpose and boundaries"
+title: "Purpose and scope"
 ---
 
 ## Function of this space
 
 `gowda-rg.github.io` is an **externalized intellectual workspace** and an **evolving map** of independent inquiry.
 
-The work behind it is not one linear research project. It is an accumulation of:
+The work spans many threads rather than one linear project. It is an accumulation of:
 
 - Intellectual practices
 - Observational methods

@@ -26,6 +26,6 @@ Requirements when using this protocol:
 - Do not collapse philosophical traditions into one voice  
 - Mark metaphor vs established technical term  
 
-Objective: conceptual precision and interdisciplinary fluency, not polished biography.
+Objective: conceptual precision and interdisciplinary fluency.
 
 Related: [block-types.md](block-types.md), [semantic-drift-modules.md](semantic-drift-modules.md)

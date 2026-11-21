@@ -2,7 +2,7 @@
 
 **Human–AI Interaction · Cognition · Phenomenology · Philosophy · Systems Thinking**
 
-An evolving archive of independent inquiry into how **meaning, understanding and reasoning** change through sustained human–AI interaction — grounded in observable dialogue and interaction traces, not claims about model internals.
+An evolving archive of independent inquiry into how **meaning, understanding and reasoning** change through sustained human–AI interaction — grounded in observable dialogue and interaction traces.
 
 **Live site:** https://gowda-rg.github.io  
 **Repository:** https://github.com/gowda-rg/gowda-rg.github.io
@@ -12,8 +12,8 @@ An evolving archive of independent inquiry into how **meaning, understanding and
 ## What this is
 
 - An **externalized intellectual workspace**: concepts, methods, frameworks, field notes, and threads in progress  
-- **Interdisciplinary** inquiry (HAI, phenomenology, cognition, semantics, systems thinking) with clear [epistemic boundaries](orientation/epistemic-stance.md)  
-- **Multiple publication streams** over time — not a single chronological dev blog  
+- **Interdisciplinary** inquiry (HAI, phenomenology, cognition, semantics, systems thinking) with a stated [epistemic stance](orientation/epistemic-stance.md)  
+- **Modular publication streams** organized by concepts and inquiry areas  
 
 ## Publication split
 

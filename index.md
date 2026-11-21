@@ -16,7 +16,7 @@ This site holds two layers:
 
 **New:** [The Artifact Is the Interface](/writings/artifact-is-the-interface/) — first long-form essay on output-first and artifact-first revision.
 
-You can read the story first, or go straight into the archive if you are here for the work itself.
+Start with [About](/about/) for trajectory, or use the links below to enter the archive.
 
 ---
 
@@ -24,13 +24,13 @@ You can read the story first, or go straight into the archive if you are here fo
 
 > How does meaning, understanding and reasoning evolve through sustained interaction between humans and artificial intelligence systems?
 
-The archive treats that as a live question — not a finished theory. It privileges **interaction traces and observable behavior**, not claims about model internals.
+The archive keeps that question open and grounds discussion in **interaction traces and observable behavior**.
 
 ---
 
 ## Enter the research archive
 
-- [Purpose & boundaries](/orientation/purpose-and-boundaries/)
+- [Purpose & scope](/orientation/purpose-and-boundaries/)
 - [Central inquiry](/orientation/central-inquiry/)
 - [Conceptual layers](/inquiry/conceptual-layers/)
 - [Semantic drift (exemplar concept)](/blocks/semantic-drift-modules/)

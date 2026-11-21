@@ -3,7 +3,7 @@ layout: page
 title: "Investigation levels"
 ---
 
-Material moves between three levels. This keeps the archive from collapsing into undifferentiated “AI + consciousness + philosophy” language.
+Material is tagged across three levels so readers can see which inferential moves are in play.
 
 | Level | What is under investigation |
 |-------|-----------------------------|

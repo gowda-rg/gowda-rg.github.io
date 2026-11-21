@@ -5,7 +5,7 @@ title: "Central inquiry"
 
 > How does meaning, understanding and reasoning evolve through sustained interaction between humans and artificial intelligence systems?
 
-This is a **working orientation**, not a final theoretical position. The archive should allow the question to evolve.
+This is an **evolving orientation**; the archive is built so the central question can change over time.
 
 ## Connected areas
 
@@ -17,9 +17,9 @@ This is a **working orientation**, not a final theoretical position. The archive
 - Human-centered AI and interaction design
 - Systems thinking and emergent conceptual structures
 
-These areas are **interconnected**, not isolated disciplines.
+These areas are **interconnected** parts of one inquiry map.
 
-## Conceptual flow (inquiry map, not a causal model of AI cognition)
+## Conceptual flow (inquiry map)
 
 ```
 Human experience and cognition

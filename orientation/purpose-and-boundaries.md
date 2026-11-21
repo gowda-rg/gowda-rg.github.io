@@ -3,8 +3,6 @@ layout: page
 title: "Purpose and boundaries"
 ---
 
-# Purpose and boundaries
-
 ## Function of this space
 
 `gowda-rg.github.io` is an **externalized intellectual workspace** and an **evolving map** of independent inquiry.
@@ -19,14 +17,16 @@ The work behind it is not one linear research project. It is an accumulation of:
 
 The aim is to externalize thinking so it can be **inspected, differentiated, reorganized, connected and developed** without depending on working memory alone.
 
-## Boundaries
+## Scope
 
-| In scope | Out of scope |
-|----------|----------------|
-| HAI, phenomenology, cognition, semantics, observable AI behavior | Professional hiring narrative as primary frame |
-| Frameworks, field notes, threads, concepts | Treating every hypothesis as established science |
-| Links to code repos and Substack | Hosting all software in this repo |
-| Trajectory of ideas (including revision and conflict) | Polished-only, static “finished papers” presentation |
+| Focus on this site | Often published or maintained elsewhere |
+|--------------------|----------------------------------------|
+| HAI, phenomenology, cognition, semantics, observable AI behavior | Long-form essays on Substack (see [platform ecosystem](platform-ecosystem.md)) |
+| Frameworks, field notes, threads, concepts | Code, prototypes, and experiments in dedicated repositories |
+| Links between ideas (including revision and conflict) | — |
+| Working hypotheses and methods in progress | — |
+
+Visitors may also use [About](/about/) for trajectory context and [platform ecosystem](platform-ecosystem.md) for how this domain connects to other publication spaces.
 
 ## Terminology
 

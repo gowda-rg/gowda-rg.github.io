@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Semantic drift"
+title: "Semantic drift (modular exemplar)"
 ---
-
-# Semantic drift (modular exemplar)
 
 ## 01 · Accessible
 

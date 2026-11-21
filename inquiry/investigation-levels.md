@@ -3,8 +3,6 @@ layout: page
 title: "Investigation levels"
 ---
 
-# Investigation levels
-
 Material moves between three levels. This keeps the archive from collapsing into undifferentiated “AI + consciousness + philosophy” language.
 
 | Level | What is under investigation |

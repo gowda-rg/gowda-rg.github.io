@@ -3,8 +3,6 @@ layout: page
 title: "Epistemic stance"
 ---
 
-# Epistemic stance
-
 Independent exploratory work — not a formal institutional research program.
 
 ## Distinguish clearly
@@ -37,4 +35,4 @@ Preserve meaningful terminology; surface **ambiguity** instead of silent redefin
 ## Related
 
 - [purpose-and-boundaries.md](purpose-and-boundaries.md)
-- [purpose-and-boundaries.md](purpose-and-boundaries.md)
+- [central-inquiry.md](central-inquiry.md)

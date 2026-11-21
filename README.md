@@ -15,11 +15,9 @@ An evolving archive of independent inquiry into how **meaning, understanding and
 - **Interdisciplinary** inquiry (HAI, phenomenology, cognition, semantics, systems thinking) with clear [epistemic boundaries](orientation/epistemic-stance.md)  
 - **Multiple publication streams** over time — not a single chronological dev blog  
 
-## What this is not
+## Publication split
 
-- Not a software engineering portfolio (professional identity lives elsewhere)  
-- Not a duplicate of Substack (essays publish there; structure and concept pages live here)  
-- Not a collection of finished, peer-validated papers — hypotheses and revisions stay visible  
+Essays and readership often live on **Substack**; structured concept and framework pages live here. Hypotheses and revisions may remain visible while inquiry continues.
 
 ---
 

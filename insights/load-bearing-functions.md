@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Load-bearing functions"
+title: "Load-bearing functions (human in the loop)"
 ---
-
-# Load-bearing functions (human in the loop)
 
 In sustained human–AI interaction, the human side routinely supplies:
 

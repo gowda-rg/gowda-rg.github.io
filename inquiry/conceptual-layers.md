@@ -3,8 +3,6 @@ layout: page
 title: "Conceptual layers"
 ---
 
-# Conceptual layers
-
 Seven dimensions of the same evolving inquiry — not seven separate disciplines.
 
 ## A. Human–AI Interaction (central observational domain)

@@ -3,8 +3,6 @@ layout: page
 title: "Concept exploration protocol"
 ---
 
-# Concept exploration protocol
-
 Reusable workflow for developing **one concept** across levels of understanding (archive authoring aid).
 
 For each concept supplied (notes, fragments, terminology):

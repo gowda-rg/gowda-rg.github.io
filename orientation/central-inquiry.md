@@ -3,8 +3,6 @@ layout: page
 title: "Central inquiry"
 ---
 
-# Central inquiry
-
 > How does meaning, understanding and reasoning evolve through sustained interaction between humans and artificial intelligence systems?
 
 This is a **working orientation**, not a final theoretical position. The archive should allow the question to evolve.

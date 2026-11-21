@@ -3,8 +3,6 @@ layout: page
 title: "Methods and approaches"
 ---
 
-# Methods and approaches
-
 Combined methodological palette (evolving):
 
 - Longitudinal interaction observation  

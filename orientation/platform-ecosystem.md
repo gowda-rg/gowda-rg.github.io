@@ -3,40 +3,37 @@ layout: page
 title: "Platform ecosystem"
 ---
 
-# Platform ecosystem
+## Linked publication spaces
 
-Four distinct spaces, referenced to each other without duplicating everything.
+Several spaces serve different formats. They cross-link where useful; full prose is not duplicated everywhere.
 
-## A. Personal website — professional identity
+## A. Personal website — engineering profile
 
-For hiring teams, recruiters, professional connections.
+Engineering history, selected projects, skills, and contact.
 
-Communicates: employment history, engineering experience, skills, selected dev projects, career trajectory, contact.
-
-**This research archive does not replace that site.**
+*(Separate site — URL added when published.)*
 
 ## B. GitHub Pages — Independent Research & Explorations
 
 Repository: https://github.com/gowda-rg/gowda-rg.github.io  
 Website: https://gowda-rg.github.io
 
-Documents independent intellectual development: HAI, philosophy of mind, frameworks, field notes, technical investigations, evolving hypotheses.
-
-Supports **multiple publication streams** under one domain.
+Structured archive: HAI inquiry, frameworks, field notes, technical investigations, evolving hypotheses.
 
 ## C. GitHub repositories — development infrastructure
 
-Code, prototypes, experiments live in their own repos. Pages here **document and link**; not every research page needs an implementation.
+Code, prototypes, and experiments live in their own repos. Pages here **document and link**; not every research page needs an implementation.
 
 ## D. Substack — public writing
 
 Long-form essays, threads, philosophical articles, technical investigations.
 
-**GitHub Pages:** structured, navigable knowledge archive.  
+**GitHub Pages:** navigable knowledge archive.  
 **Substack:** publication and readership layer.
 
-Cross-link concept / framework pages to Substack pieces; avoid maintaining two full copies of the same text.
+Cross-link concept and framework pages to Substack pieces; avoid maintaining two full copies of the same text.
 
-## Future site orientation copy
+## Related
 
-Draft reader-facing text for the live site: [../architecture/site-orientation-draft.md](../architecture/site-orientation-draft.md)
+- [purpose-and-boundaries.md](purpose-and-boundaries.md)
+- [../about.md](../about.md)

@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Accumulated work"
+title: "Accumulated work (Sept 2024 – Oct 2026)"
 ---
 
-# Accumulated work (Sept 2024 – Oct 2026)
-
-Central material for the archive — independent exploration, not formal employment research.
+Central material for the archive — independent exploration during the period below.
 
 ## Themes developed through sustained interaction
 

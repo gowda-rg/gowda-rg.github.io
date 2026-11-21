@@ -40,4 +40,4 @@ The archive treats that as a live question — not a finished theory. It privile
 
 ---
 
-_Ongoing independent inquiry — an intellectual workspace, not an institutional lab or a developer portfolio._
+_Ongoing independent inquiry — an intellectual workspace in progress._

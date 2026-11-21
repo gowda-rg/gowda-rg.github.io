@@ -9,6 +9,10 @@ lang: en
 markdown: kramdown
 theme: minima
 
+minima:
+  skin: auto
+  date_format: "%b %-d, %Y"
+
 show_excerpts: true
 
 sass:
@@ -22,7 +26,6 @@ header_pages:
   - index.md
   - about.md
   - writings/index.md
-  - orientation/purpose-and-boundaries.md
   - orientation/central-inquiry.md
 
 # Planning docs stay in the repo; not built as site pages unless front matter is added.

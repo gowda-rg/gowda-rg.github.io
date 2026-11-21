@@ -1,34 +1,160 @@
 ---
-# Main Sass file — Minima + light reader adjustments
+# Minima + long-form reading overrides
 ---
 
 @import "minima";
 
-// Readable measure for long essays
+// —— Calm, print-like palette ——
+$reader-bg: #f6f5f2;
+$reader-surface: #efede8;
+$reader-text: #2c2c2c;
+$reader-muted: #5a5a5a;
+$reader-border: #d8d6d0;
+$reader-accent: #1a5f7a;
+$reader-measure: 42rem;
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background-color: $reader-bg;
+  color: $reader-text;
+  line-height: 1.72;
+  font-size: 1.0625rem;
+}
+
+.site-header {
+  background-color: $reader-surface;
+  border-top: 0;
+  border-bottom: 1px solid $reader-border;
+}
+
+.site-title,
+.site-title:visited {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.site-nav .page-link {
+  color: $reader-muted;
+}
+
+.site-nav .page-link:hover,
+.site-nav .page-link:focus-visible {
+  color: $reader-accent;
+  text-decoration: underline;
+}
+
+.site-footer {
+  background-color: $reader-surface;
+  border-top: 1px solid $reader-border;
+  padding: 1.5rem 0;
+}
+
 .wrapper {
-  max-width: 52rem;
+  max-width: 54rem;
 }
 
 .page-content,
-.post-content {
-  max-width: 46rem;
+.post-content,
+article.page {
+  max-width: $reader-measure;
   margin-left: auto;
   margin-right: auto;
 }
 
-.post-content h2 {
-  margin-top: 2.25rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid #e8e8e8;
+.post-content p,
+.page-content p {
+  margin-bottom: 1.15em;
 }
 
-.post-content table {
+.post-content h2,
+.page-content h2 {
+  margin-top: 2.25rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid $reader-border;
+  font-size: 1.35rem;
+  letter-spacing: -0.01em;
+}
+
+.post-content h3,
+.page-content h3 {
+  margin-top: 1.5rem;
+  font-size: 1.12rem;
+}
+
+.post-content table,
+.page-content table {
   display: block;
   overflow-x: auto;
   font-size: 0.92rem;
 }
 
+.post-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $reader-border;
+}
+
+.post-title {
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+}
+
+.post-subtitle {
+  margin: 0.75rem 0 0;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  color: $reader-muted;
+  font-style: italic;
+}
+
 .post-meta {
-  opacity: 0.85;
+  margin-top: 0.75rem;
+  opacity: 0.9;
   font-size: 0.9rem;
+  color: $reader-muted;
+}
+
+a {
+  color: $reader-accent;
+}
+
+a:focus-visible {
+  outline: 2px solid $reader-accent;
+  outline-offset: 2px;
+}
+
+.site-footer__text {
+  margin: 0;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: $reader-muted;
+  text-align: center;
+}
+
+.site-footer__text a {
+  color: $reader-text;
+  font-weight: 500;
+}
+
+.home .post-list {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $reader-border;
+}
+
+.home .post-list > li {
+  margin-bottom: 1.25rem;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 1rem;
+  }
+
+  .site-nav .menu-icon > svg {
+    fill: $reader-text;
+  }
 }
